@@ -1,1 +1,1 @@
-web: gunicorn MyProject.wsgi
+web: gunicorn flights.wsgi
