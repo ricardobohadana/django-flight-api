@@ -1,1 +1,1 @@
-web: gunicorn flights.wsgi
+web: gunicorn flightsapi.wsgi
